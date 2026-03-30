@@ -28,7 +28,10 @@
 
 <h2>GitHub Stats :octocat:</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EmaREGO&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://github.com/EmaREGO">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EmaREGO&theme=tokyo-night&show_icons=true&hide_border=true&area=true" />
+  </a>
+</p>
 
 </p>
 
