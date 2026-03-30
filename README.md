@@ -32,6 +32,14 @@
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=EmaREGO&theme=tokyo-night&show_icons=true&hide_border=true&area=true" />
   </a>
 </p>
+<h2 align="center">Activity 🐍</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmaREGO/EmaREGO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmaREGO/EmaREGO/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EmaREGO/EmaREGO/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 </p>
 
