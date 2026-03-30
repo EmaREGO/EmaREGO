@@ -28,9 +28,8 @@
 
 <h2>GitHub Stats :octocat:</h2>
 <p align="center">
-  <a href="https://github.com/EmaREGO">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EmaREGO&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  
   <a href="https://github.com/EmaREGO">
     <img alt="Top Langs" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </a>
